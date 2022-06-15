@@ -1,0 +1,3 @@
+- 👋 Hi, I’m neelam agashe. I am  in the beginnng for trasitioning from Physical therpay to data science .
+- 🌱 I’m currently learning Python and SQL.
+- Any help /guidance is appreciated.
